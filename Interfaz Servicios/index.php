@@ -18,6 +18,7 @@
     	<input type="text" name="a_cacao" placeholder="Área cacao">
     	<input type="text" name="a_productiva" placeholder="Área productiva">
     	<input type="clones" name="clones" placeholder="Clones">
+    	<input type="clones" name="sombrio" placeholder="Sombrio">
     	<input type="submit" name="register">
     </form>
         <?php 
